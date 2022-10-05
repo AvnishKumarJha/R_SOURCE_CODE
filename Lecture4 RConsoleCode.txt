@@ -1,0 +1,24 @@
+> 2+3
+[1] 5
+> 5+6
+[1] 11
+> print("Hello User in R Programming Language")
+[1] "Hello User in R Programming Language"
+> demo<-"Hello how are you??"
+> demo
+[1] "Hello how are you??"
+> print(demo)
+[1] "Hello how are you??"
+> sum<-4+6
+> sum
+[1] 10
+> print(sum)
+[1] 10
+> sum1<-sum+10
+> sum1
+[1] 20
+> print(sum1)
+[1] 20
+> help.search("data input")
+starting httpd help server ... done
+> 
